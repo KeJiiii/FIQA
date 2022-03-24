@@ -1,2 +1,1 @@
-# FIQA
-Fluorescent image quantitative analysis
+# imagej macro
